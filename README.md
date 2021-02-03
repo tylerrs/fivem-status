@@ -3,6 +3,7 @@
 <h3>Description:</h3>
 <p>Simple discord bot to display your server players count (FiveM).
   how to install and use it?
+  <br/>
   1. You must change all the information in the file to your information.</p>
   <p>2. You must search the next line on the code: <kbd>modules["embed"] = "806660458798645259";</kbd>
   <br/>
