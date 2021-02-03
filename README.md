@@ -8,4 +8,4 @@
   * Copy any embed id and paste in, to give the bot the option to edit the message.
 </p>
 
-**If you get stuck in something, you can always message me on discord <kbd>fixheko#3245</kbd>.
+**If you get stuck in something, you can always message me on discord** <kbd>fixheko#3245</kbd>.
